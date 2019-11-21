@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
-import PostForm from './PostForms';
-import AllPost from './AllPost';
+import PostForm from './components/PostForms';
+import AllPost from './components/AllPost';
 
 class App extends Component {
   render() {
